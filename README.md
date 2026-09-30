@@ -37,6 +37,52 @@ The objective is to transform financial statement data into meaningful financial
 - Operating Cash Flow
 - Operating Cash Flow Margin
 
+  🔍 Key Insights
+Revenue growth improved through FY2024 but declined significantly in FY2025, indicating a slowdown in revenue growth.
+Operating profit margin improved overall during FY2021–FY2025, despite some year-to-year fluctuations.
+Net profit margin improved overall during the period, moving from negative levels to positive levels.
+The debt-to-equity ratio decreased significantly, indicating reduced reliance on debt financing.
+The current ratio remained relatively stable throughout the period.
+ROE and ROA improved overall from FY2021 to FY2025, indicating improved profitability relative to equity and assets.
+Operating cash flow and operating cash flow margin improved overall, indicating stronger cash generation from core operating activities.
+📚 Data Source
+
+The financial data was collected from Tata Motors' official Integrated Annual Reports for FY2021–FY2025.
+
+Official Tata Motors Annual Reports:
+
+https://www.tatamotors.com/annual-reports/
+
+The analysis uses consolidated financial statement data, including:
+
+Consolidated Statement of Profit and Loss
+Consolidated Balance Sheet
+Consolidated Cash Flow Statement
+
+Financial Reports
+       ↓
+Excel Data Preparation
+       ↓
+Python / Pandas
+       ↓
+Data Inspection
+       ↓
+KPI Calculation
+       ↓
+Financial Trend Analysis
+       ↓
+Matplotlib Visualizations
+       ↓
+Financial Insights
+
+👩‍💻 Author
+
+Harshida Rahima
+
+B.Com Finance | CMA USA Qualified Professional
+
+Interested in Finance, Accounting, Financial Analysis, Python, Power BI, and AI-driven Finance.
+
 ## 📁 Project Structure
 
 ```text
