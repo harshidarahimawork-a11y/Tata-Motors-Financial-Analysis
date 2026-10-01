@@ -6,6 +6,10 @@ This project analyzes the consolidated financial performance of Tata Motors from
 
 The objective is to transform financial statement data into meaningful financial insights through data analysis, financial ratios, and visualization.
 
+### 📓 Analysis Notebook
+
+[View the Tata Motors Financial Analysis Notebook](./Tata_Motors_Financial_Analysis.ipynb)
+
 ## 🎯 Objectives
 
 - Analyze revenue and revenue growth
